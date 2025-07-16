@@ -4,3 +4,5 @@ result/
 result
 /result
 nixos/secrets/root-ssh-keys
+nixos/secrets/root-ssh-keys.pub
+nixos/secrets/root-ssh-keys
