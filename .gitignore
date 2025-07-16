@@ -1,4 +1,5 @@
-/secrets/result/
+/nixos/secrets/
+nixos/secrets/
 result/
 result
 /result
