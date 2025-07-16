@@ -3,3 +3,4 @@ nixos/secrets/
 result/
 result
 /result
+nixos/secrets/root-ssh-keys
